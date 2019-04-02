@@ -1,6 +1,8 @@
 # Team Directory
 
 ---
+- Ashok Dudhat
+---
 - Swantje
 ---
 - Amelle Said Saleh
@@ -23,8 +25,18 @@
 ---
 - Firat Yildirim
 ---
-
-
-
-
+- Amelle Said Saleh
+---
+- Firat von Blitz
+---
+- Amelle Said Saleh
+---
+- Osward Gust-Martinez
+---
+- Melnic Alexandr
+---
+- Ahmad Tarabuls Matar
+---
+- Florian Bux
+---
 
