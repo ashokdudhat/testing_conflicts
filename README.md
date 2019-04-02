@@ -1,12 +1,8 @@
 # Team Directory
 
 ---
-- Ashok Dudhat
+- Swantje
 ---
-- Amelle Said Saleh
-
----
-- Mafe Tortosa
 
 ---
 - Vlad Haragea
@@ -15,4 +11,3 @@
 ---
 - Albert Edelmann
 ---
-
