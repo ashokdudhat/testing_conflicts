@@ -3,6 +3,8 @@
 ---
 - Swantje
 ---
+- Mafe Tortosa
+---
 - Irem Peker
 ---
 - Albert Edelmann
@@ -18,5 +20,15 @@
 - Firat Yildirim
 ---
 - Amelle Said Saleh
+---
+- Firat von Blitz
+---
+- Amelle Said Saleh
+---
+- Osward Gust-Martinez
+---
+- Melnic Alexandr
+---
+- Ahmad Tarabuls Matar
 ---
 
