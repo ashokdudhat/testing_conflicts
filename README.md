@@ -3,16 +3,14 @@
 ---
 - Swantje
 ---
-
---
-- Mafe Tortosa
+- Irem Peker
 ---
+- Melnic Alexandr
 
----
 - Vlad Haragea
 ---
 
-
-
-
-- Melnic Alexandr
+- Firat Yildirim
+---
+- Amelle Said Saleh
+---
