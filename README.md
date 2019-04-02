@@ -1,9 +1,40 @@
 
 # Team Directory
-
-
+---
+- Ashok Dudhat
 ---
 - Swantje
 ---
-- Maurice
+- Amelle Said Saleh
+---
+- Mafe Tortosa
+---
+- Irem Peker
+---
+- Albert Edelmann
+---
+- Osward Gust-Martinez
+---
+- Melnic Alexandr
+---
+- Vlad Haragea
+---
+- Ahmad Tarabuls Matar
+---
+- mahamadi congo
+---
+- Firat Yildirim
+---
+- Maurice Schubarth
+---
+- Florian Sdorra
+---
+- almezyad
+---
+- Florian Bux
+---
+- Henaff Erwan
+---
+- Samer Khabeer
+---
 
