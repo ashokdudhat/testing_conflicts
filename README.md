@@ -1,9 +1,11 @@
 # Team Directory
 
 ---
-- Ashok Dudhat
+- Swantje
 ---
-- Amelle Said Saleh
+- Irem Peker
 ---
+
 - Osward Gust-Martinez
+
 
