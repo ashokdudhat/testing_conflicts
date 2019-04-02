@@ -5,12 +5,9 @@
 ---
 - Irem Peker
 ---
-<<<<<<< HEAD
 - Vlad Haragea
 ---
----
 - mahamadi congo
----
 ---
 - Firat Yildirim
 ---
@@ -18,3 +15,17 @@
 ---
 - Osward Gust-Martinez
 ---
+- Vlad Haragea
+---
+
+- Osward Gust-Martinez
+- Melnic Alexandr
+- Vlad Haragea
+- Ahmad Tarabuls Matar
+
+- Firat Yildirim
+---
+- Amelle Said Saleh
+---
+
+
