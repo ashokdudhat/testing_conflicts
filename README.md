@@ -1,9 +1,19 @@
 # Team Directory
 
 ---
+- Ashok Dudhat
+---
 - Swantje
 ---
+- Mafe Tortosa
+---
 - Irem Peker
+---
+- Albert Edelmann
+---
+- Osward Gust-Martinez
+---
+- Melnic Alexandr
 ---
 - Vlad Haragea
 ---
@@ -13,12 +23,15 @@
 ---
 - Amelle Said Saleh
 ---
+- Firat von Blitz
+---
+- Amelle Said Saleh
+---
 - Osward Gust-Martinez
 ---
 - Melnic Alexandr
 ---
 - Ahmad Tarabuls Matar
 ---
-- Florian Bux 
+- Florian Bux
 ---
-
