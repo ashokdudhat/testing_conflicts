@@ -6,6 +6,10 @@
 - Irem Peker
 ---
 
+---
+- Vlad Haragea
+---
+
 - Osward Gust-Martinez
 
 
