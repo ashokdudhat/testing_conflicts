@@ -5,6 +5,7 @@
 ---
 - Irem Peker
 ---
+<<<<<<< HEAD
 - Vlad Haragea
 ---
 ---
@@ -15,4 +16,5 @@
 ---
 - Amelle Said Saleh
 ---
->>>>>>> ef9de5f69e54a6336d491ca204481622fa5477b0
+- Osward Gust-Martinez
+---
