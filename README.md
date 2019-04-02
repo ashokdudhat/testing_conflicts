@@ -1,6 +1,6 @@
 # Team Directory
 
 ---
-- Ashok Dudhat
+- Ahmad Al-jabouri
 ---
 
