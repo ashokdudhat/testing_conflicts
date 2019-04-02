@@ -16,13 +16,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
- - Melnic Alexandr
+- Melnic Alexandr
