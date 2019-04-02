@@ -1,3 +1,4 @@
+
 # Team Directory
 
 ---
@@ -18,6 +19,7 @@
 - Melnic Alexandr
 ---
 - Vlad Haragea
+>>>>>>> 44051862258cf6281406bc62819c85e084aead1d
 ---
 - Ahmad Tarabuls Matar
 ---
@@ -47,3 +49,6 @@
 - Henaff Erwan
 ---
 
+---
+- Samer Khabeer
+---
