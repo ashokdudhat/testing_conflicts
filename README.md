@@ -32,6 +32,7 @@
 - Firat von Blitz
 ---
 - Amelle Said Saleh
+- Florian Sdorra
 ---
 - Osward Gust-Martinez
 ---
