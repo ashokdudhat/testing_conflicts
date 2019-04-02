@@ -3,5 +3,6 @@
 ---
 - Ashok Dudhat
 - Amelle Said Saleh
+- Florian Sdorra
 ---
 
