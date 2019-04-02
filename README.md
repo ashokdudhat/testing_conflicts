@@ -4,6 +4,3 @@
 - Ashok Dudhat
 ---
 
----
-- Mafe Tortosa
----
