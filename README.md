@@ -1,15 +1,12 @@
 # Team Directory
 
 ---
-- Ashok Dudhat
+- Swantje
 ---
-- Amelle Said Saleh
+- Irem Peker
+---
 
----
-- Mafe Tortosa
+- Osward Gust-Martinez
 
----
-- Vlad Haragea
----
 
 - Ahmad Tarabuls Matar
