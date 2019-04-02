@@ -3,11 +3,15 @@
 ---
 - Ashok Dudhat
 ---
+- Amelle Said Saleh
 
 ---
 - Mafe Tortosa
+
+---
+- Vlad Haragea
 ---
 
 ---
-- Firat Yildirim
+- Firat von Blitz
 ---
