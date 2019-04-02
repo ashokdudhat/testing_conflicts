@@ -6,11 +6,7 @@
 - Irem Peker
 ---
 
+- Osward Gust-Martinez
 
-- Vlad Haragea
----
 
-- Firat Yildirim
----
-- Amelle Said Saleh
----
+- Ahmad Tarabuls Matar
