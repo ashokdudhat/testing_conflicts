@@ -5,10 +5,10 @@
 ---
 - Irem Peker
 ---
-- Melnic Alexandr
 
+- Osward Gust-Martinez
+- Melnic Alexandr
 - Vlad Haragea
----
 
 - Firat Yildirim
 ---
